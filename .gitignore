@@ -7,6 +7,6 @@ Graduation DEPI.pptx
 
 # Ignore a directory and its contents
 Slides/
-
+__pycache__/
 # Ignore all files ending with .tmp
 *.env
