@@ -1,0 +1,12 @@
+# Ignore all .log files
+*.log
+
+# Ignore a specific file
+AAP.ipynb
+Graduation DEPI.pptx
+
+# Ignore a directory and its contents
+Slides/
+
+# Ignore all files ending with .tmp
+*.env
