@@ -5,7 +5,7 @@
 # Video Demo
 Watch the video of a converted PowerPoint presentation where the Arabic AI Presenter presents the slides:
 <div align="center">
-  <a href="https://drive.google.com/file/d/1fcSd_GyNlNJtz5qqAEQXTvnZfVQGwxRR/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1pZUYiN3c9T4ey7Fk7eg3HjIS4MJgR-FY/view?usp=sharing">
     <img src="https://img.youtube.com/vi/33DgQE6HVGY/0.jpg" alt="Watch the video">
   </a>
 </div>
