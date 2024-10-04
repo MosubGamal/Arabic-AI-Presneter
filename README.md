@@ -4,7 +4,11 @@
 
 # Video Demo
 Watch the video of a converted PowerPoint presentation where the Arabic AI Presenter presents the slides:
-[![Watch the video](https://img.youtube.com/vi/33DgQE6HVGY/0.jpg)](https://youtu.be/33DgQE6HVGY)
+<div align="center">
+  <a href="https://youtu.be/33DgQE6HVGY">
+    <img src="https://img.youtube.com/vi/33DgQE6HVGY/0.jpg" alt="Watch the video">
+  </a>
+</div>
 
 ## Project Description
 Arabic AI Presenter is a Python project that converts PowerPoint presentations into video presentations with Arabic narration. The project processes each slide of a PowerPoint presentation, extracts text descriptions, generates scripts, translates them into Arabic, and creates audio narrations. Finally, it combines the slides and audio into a video presentation.
